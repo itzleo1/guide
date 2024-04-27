@@ -52,7 +52,7 @@ Here is an example of how an embed may look. We will go over embed construction 
 	</DiscordMessage>
 </DiscordMessages>
 
-## Using the embed constructor
+
 
 discord.js features the <DocsLink path="class/EmbedBuilder" /> utility class for easy construction and manipulation of embeds.
 
